@@ -1,44 +1,36 @@
 # Awesome Competitive ML 
-🔥🌞 A curated list of resources related to Competitive ML.
 
+![Awesome](https://awesome.re/badge.svg)
+![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
+
+
+🔥🌞 A curated list of resources related to Competitive ML.
+> 💬 **"Courses teach you how models work. Competitions teach you how to make them win."**
 
 ## 🏆 Awesome Competitive ML
 A curated list of resources, techniques, and tools for winning Machine Learning competitions (Kaggle, DrivenData, AIcrowd, etc.)
 
 Why? Competitive ML is a blend of deep technical skill, rapid prototyping, feature creativity, and leaderboard climbing strategy. This repo is your playbook.
 
+
+
 ## 📜 Table of Contents
-Introduction
 
-Getting Started
-
-Core Resources
-
-Tutorials & Courses
-
-Notebooks & Walkthroughs
-
-Past Competition Solutions
-
-Techniques & Strategies
-
-Feature Engineering
-
-Modeling Tricks
-
-Ensembling
-
-Validation Strategies
-
-Tools & Libraries
-
-Leaderboard Psychology
-
-Communities
-
-Contributing
-
-License
+- [💡 Introduction](#-introduction)  
+- [🚀 Getting Started](#-getting-started)  
+- [📚 Core Resources](#-core-resources)  
+  - [Tutorials & Courses](#tutorials--courses)  
+  - [Notebooks & Walkthroughs](#notebooks--walkthroughs)  
+  - [Past Competition Solutions](#past-competition-solutions)  
+- [🧠 Techniques & Strategies](#-techniques--strategies)  
+  - [Feature Engineering](#feature-engineering)  
+  - [Modeling Tricks](#modeling-tricks)  
+  - [Ensembling](#ensembling)  
+  - [Validation Strategies](#validation-strategies)  
+- [🛠 Tools & Libraries](#-tools--libraries)  
+- [🏁 Leaderboard Psychology](#-leaderboard-psychology)  
+- [🤝 Communities](#-communities)  
+- [📩 Contributing](#-contributing)  
 
 ## 💡 Introduction
 Machine learning competitions are the Formula 1 of data science — high stakes, high speed, and high innovation. Whether you’re climbing your first public leaderboard or aiming for a Grandmaster title, this list will help you:
@@ -138,6 +130,3 @@ r/MachineLearning – News & discussions.
 
 ## 📩 Contributing
 Pull requests welcome! Please follow the contribution guidelines.
-
-## 📜 License
-MIT License
